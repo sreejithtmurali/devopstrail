@@ -14,7 +14,7 @@ void main()
    runApp(MyApp());
 }
 class MyApp extends StatelessWidget {
-  int a=0;
+  int b=0;
    MyApp({super.key});
 
   @override
