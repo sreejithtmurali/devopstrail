@@ -14,7 +14,8 @@ void main()
    runApp(MyApp());
 }
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  int a=0;
+   MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
