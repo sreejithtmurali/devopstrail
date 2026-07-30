@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home:Myassetimages(),
-      title: "My First App2",
+      title: "My Second App2",
     );
   }
 }
